@@ -1,0 +1,3 @@
+[submodule "php55-cookbook"]
+	path = php55-cookbook
+	url = https://github.com/aporat/php55-cookbook.git
